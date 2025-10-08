@@ -110,7 +110,8 @@ endmodule
 
 # Output Waveform
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34b5bb3c-a4c5-47ce-bbda-3d8636195703" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6ae5c18c-c1ce-4a10-90e5-4596ce6e8117" />
+
 
 
 # 4 bit Ripple counter using Function
