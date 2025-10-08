@@ -166,7 +166,7 @@ endmodule
 
 # Output Waveform 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/497f2231-b9c6-4f37-95f0-e179167876ab" />
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/61bc7e26-1da8-475f-8a7a-4eb1265b9d52" />
 
 
 # Conclusion
